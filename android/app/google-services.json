@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302116551263",
+    "project_id": "fir-manejoderoles",
+    "storage_bucket": "fir-manejoderoles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302116551263:android:4a3a251e70ad9c34b2f9ea",
+        "android_client_info": {
+          "package_name": "com.example.login_con_inicio_por_roles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302116551263-53q80sveboqsi12ec2pqgi95c617mtnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcKfHtI0GJawOLHIFqSGYtMr-Qv_WDw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302116551263-53q80sveboqsi12ec2pqgi95c617mtnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
